@@ -23,7 +23,8 @@
 - `SOLVED_TICKET_GE.md` - ბილეთი სწორი პასუხებით.
 - `FINAL_DAY_TUTORIAL_GE.md` - final-ზე ნაბიჯ-ნაბიჯ როგორ იმუშაო.
 - `HOW_TO_VERIFY_CODE_GE.md` - როგორ გაიგო, რომ კოდი სწორია.
-- `AI_PROMPT_GE.md` - prompt, რომელსაც ბილეთთან ერთად ჩაუგდებ AI-ს.
+- `AI_PROMPT_FIRST_SQL_CHECKS_GE.md` - საუკეთესო final prompt: AI ჯერ გაძლევს SQL checks-ს, მერე output-ის მიხედვით გიწერს პასუხებს.
+- `AI_PROMPT_GE.md` - მოკლე prompt, როცა schema/table names უკვე გარკვეული გაქვს.
 - `ORACLE_FINAL_GUIDE.md` - Fragen, Antworten, Varianten, Setup und typische Fehler.
 
 ## Lokale Oracle-Verbindung
