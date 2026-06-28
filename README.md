@@ -19,6 +19,9 @@
 - `03_admin_user_role_as_system.sql` - ausführbare Version der User/Role/Grant-Aufgabe für lokale Tests.
 - `04_blank_ticket_for_practice.sql` - leeres Ticket zum Üben.
 - `05_verify_results_after_02.sql` - checks, რომ ამოხსნა ნამდვილად მუშაობს.
+- `06_mock_final_products_schema.sql` - ახალი Dummy Final-ის schema/products-market setup.
+- `07_mock_final_products_ticket_GE.md` - ახალი Dummy Final-ის 10 ამოცანა პასუხების გარეშე.
+- `08_mock_final_products_initial_checks.sql` - Dummy Final-ის საწყისი checks, F5-ით გასაშვები.
 - `TICKET_ORIGINAL_CONDITIONS_GE.md` - ბილეთის პირობები პასუხების გარეშე.
 - `SOLVED_TICKET_GE.md` - ბილეთი სწორი პასუხებით.
 - `FINAL_DAY_TUTORIAL_GE.md` - final-ზე ნაბიჯ-ნაბიჯ როგორ იმუშაო.
